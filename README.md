@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @JeyaPrawinRaj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Jeya Prawin Raj
 
-<!---
-JeyaPrawinRaj/JeyaPrawinRaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Prefinal Year Computer Science Engineering Student  
+💻 Proficient in Java & C  
+🌐 Frontend Developer (HTML, CSS & JavaScript)  
+🚀 Passionate about Programming, Problem Solving & Software Development  
+
+---
+
+## 👀 I’m interested in ...
+- Software Development
+- Web Development
+- Data Structures & Algorithms
+- Emerging Technologies
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming Languages
+- Java
+- C
+- JavaScript
+
+### 🌐 Web Development
+- HTML
+- CSS
+- Responsive Design
+
+### 📚 Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+
+---
+
+## 📫 How to reach me ...
+- 📧 Email: jeyaprawinrajk2006@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/jeyaprawinraj/
